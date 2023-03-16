@@ -1,0 +1,140 @@
+.darkMode {
+  background: #000;
+
+  & h1 {
+    color: #fff;
+  }
+
+  & h2 {
+    color: #222;
+  }
+
+  & h3 {
+    color: #fff;
+  }
+
+  & .page {
+    background: $subColor;
+    box-shadow: 0 50px 100px rgba(100, 100, 200, 0.3);
+  }
+
+  & .btn_kind1 {
+    background: #000;
+    color: #fff;
+
+    &.on,
+    &:hover {
+      color: #000;
+      background: $pointColor;
+    }
+  }
+
+  & .kind2 {
+    background: #000;
+  }
+
+  & .contents .cpl_pic {
+    background: #000;
+  }
+
+  & .kind2 li label span {
+    background: $subColor;
+    color: #fff;
+  }
+
+  & .contents > ul > li {
+    border-bottom: 1px solid #333;
+  }
+
+  & .kind2 li input:checked + label span {
+    background: $pointColor;
+    color: $subColor;
+  }
+
+  & .contents .cpl_info .cpli_title strong {
+    color: #fff;
+  }
+
+  & .contents .cpl_info .cpli_title:before {
+    background: $pointColor;
+  }
+
+  & .contents .cpl_info ul strong mark {
+    color: #fff;
+  }
+
+  & .contents .cpl_info ul strong:before {
+    background: #222;
+  }
+
+  & .contents .cpl_info ul li a:hover {
+    color: #fff;
+  }
+
+  & .f_copyright {
+    background: $subColor;
+    color: #fff;
+
+    &:after {
+      background: #fff;
+    }
+  }
+
+  & .goTop {
+    background: $subColor;
+    color: #fff;
+  }
+}
+
+.darkModeComponent {
+  z-index: 10;
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  width: 70px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background: none;
+  color: gray;
+
+  & > span {
+    font-size: 17px;
+    font-family: roboto;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+
+  & .icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+
+    & .light {
+      color: #ffbb18;
+    }
+    & .dark {
+      color: #f82757;
+    }
+  }
+
+  & button {
+    background: none;
+  }
+
+  & svg {
+    font-size: 30px;
+    width: 30px;
+  }
+
+  &.light {
+    color: #ffbb18;
+  }
+
+  &.dark {
+    color: #f82757;
+  }
+}

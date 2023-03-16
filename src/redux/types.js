@@ -1,0 +1,17 @@
+const GET_LIST_ALL = 'list/GET_LIST_ALL';
+const GET_LIST_KIND1 = 'list/GET_LIST_KIND1';
+const GET_LIST_KIND2 = 'list/GET_LIST_KIND2';
+const USER_CHK_KIND2 = 'list/USER_CHK_KIND2';
+const GET_INPUT_REF = 'list/GET_INPUT_REF';
+const SET_LIST_COUNTING = 'list/SET_LIST_COUNTING';
+const IS_SHOW_BTN_MORE = 'list/IS_SHOW_BTN_MORE';
+
+export const types = {
+    GET_LIST_ALL,
+    GET_LIST_KIND1,
+    GET_LIST_KIND2,
+    USER_CHK_KIND2,
+    GET_INPUT_REF,
+    SET_LIST_COUNTING,
+    IS_SHOW_BTN_MORE
+}
