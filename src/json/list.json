@@ -2,7 +2,7 @@
   {
     "title": "뉴스기사 사이트",
     "image": "scvcoin.png",
-    "git": "https://github.com/payeat/scvcoin",
+    "git": "private",
     "viewUrl": "",
     "work": "실무) 뉴스기사 사이트",
     "kind1": "WEB",
@@ -11,16 +11,16 @@
   {
     "title": "대구성서스마트그린산단사업단",
     "image": "smartGreen.jpg",
-    "git": "https://github.com/webcogy/react_smartgreen",
+    "git": "private",
     "viewUrl": "",
-    "work": "외주) 공지사항+로그인+회원가입 리액트 퍼블리싱",
+    "work": "외주) 공지사항+로그인+회원가입",
     "kind1": "WEB",
     "kind2": ["react"]
   },
   {
     "title": "국책과제 대시보드",
     "image": "dataService.jpg",
-    "git": "https://github.com/webcogy/data-service",
+    "git": "private",
     "viewUrl": "",
     "work": "외주) 대시보드 + 게시판 sorting",
     "kind1": "WEB",
@@ -29,7 +29,7 @@
   {
     "title": "Dashboard",
     "image": "dashboard.jpg",
-    "git": "https://github.com/webcogy/dashboard",
+    "git": "private",
     "viewUrl": "",
     "work": "외주) 관리자 대시보드 + 차트 붙임",
     "kind1": "WEB",
@@ -40,7 +40,7 @@
     "image": "vuedongsan.jpg",
     "git": "https://github.com/webcogy/vuedongsan",
     "viewUrl": "https://webcogy.github.io/vuedongsan/",
-    "work": "100%",
+    "work": "클론코딩",
     "kind1": "WEB",
     "kind2": ["vue"]
   },
@@ -49,7 +49,7 @@
     "image": "makethebeauty.jpg",
     "git": "https://github.com/webcogy/makeTheBeauty",
     "viewUrl": "",
-    "work": "100%",
+    "work": "개인) 화장품쇼핑몰 풀스택 구현",
     "kind1": "WEB",
     "kind2": ["react", "graphql", "apollo", "cssModule"]
   },
@@ -58,7 +58,7 @@
     "image": "",
     "git": "https://github.com/webcogy/devPortfolio",
     "viewUrl": "https://webcogy.github.io/devPortfolio/",
-    "work": "100%",
+    "work": "개인) 프론트엔드 구현",
     "kind1": "WEB",
     "kind2": ["react", "redux", "sass"]
   },
@@ -67,7 +67,7 @@
     "image": "chat.jpg",
     "git": "private",
     "viewUrl": "",
-    "work": "실무) 프론트단 작업 100%",
+    "work": "실무) 톡 기능 프론트엔드 구현",
     "kind1": "WEB",
     "kind2": ["react", "contextAPI", "sass", "websocket"]
   },
@@ -85,7 +85,7 @@
     "image": "conko.jpg",
     "git": "private",
     "viewUrl": "",
-    "work": "실무) 80%",
+    "work": "실무) 유치원 앱 프론트엔드 구현",
     "kind1": "APP",
     "kind2": ["reactNative", "styledComponent"]
   },
@@ -94,7 +94,7 @@
     "image": "movie.png",
     "git": "https://github.com/webcogy/React_MovieApp",
     "viewUrl": "",
-    "work": "100%",
+    "work": "클론코딩",
     "kind1": "WEB",
     "kind2": ["react", "api"]
   },
@@ -103,7 +103,7 @@
     "image": "weather.jpg",
     "git": "https://github.com/webcogy/ReactNative_weatherApp",
     "viewUrl": "",
-    "work": "100%",
+    "work": "클론코딩",
     "kind1": "APP",
     "kind2": ["reactNative", "api", "expo"]
   },
@@ -112,7 +112,7 @@
     "image": "todolist.jpg",
     "git": "https://github.com/webcogy/react_todoList",
     "viewUrl": "https://webcogy.github.io/react_todoList/",
-    "work": "100%",
+    "work": "클론코딩",
     "kind1": "WEB",
     "kind2": ["react"]
   },
