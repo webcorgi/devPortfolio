@@ -41,3 +41,10 @@ yarn run deploy
 ```
 yarn add global react-scripts
 ```
+
+### 버전에 따라 오류나는 환경일 경우
+
+```
+set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start
+set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build
+```
