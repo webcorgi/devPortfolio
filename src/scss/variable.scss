@@ -1,0 +1,7 @@
+$pointColor: #ffe618;
+$subColor: #111427;
+$footerColor: #2b2d40;
+
+@mixin boxShadow {
+  box-shadow: 0 50px 100px rgba(17, 20, 39, 0.2);
+}

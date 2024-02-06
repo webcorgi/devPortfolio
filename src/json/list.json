@@ -1,0 +1,155 @@
+[
+  {
+    "title": "[GAME] 고스트워 공식",
+    "image": "ghostwar.png",
+    "git": "private",
+    "viewUrl": "https://ghostwar.co.kr/",
+    "work": "실무) 기획+디자인+개발+서버 작업 (개발기능=네이버카페 글 정기적으로 크롤링)",
+    "kind1": "WEB",
+    "kind2": ["javascript, nodejs, naverCloud"]
+  },
+  {
+    "title": "[GAME] 고스트워 여름 업데이트 사전예약",
+    "image": "ghostwar.png",
+    "git": "private",
+    "viewUrl": "",
+    "work": "실무) 기획+디자인+개발+서버 작업 (개발기능=유저 사전예약정보 받기. 백엔드,DB,서버 배포)",
+    "kind1": "WEB",
+    "kind2": ["javascript, nodejs, mysql, naverCloud"]
+  },
+  {
+    "title": "카톡 메신저봇",
+    "image": "msgbot.png",
+    "git": "https://github.com/webcorgi/loa_chatbot",
+    "viewUrl": "https://mercury-leather-c8d.notion.site/7d4dcf152897444bbe555842c7495bf9?pvs=4",
+    "work": "채팅방 챗봇 개발 (메신저봇R앱 사용)",
+    "kind1": "APP",
+    "kind2": ["javascript"]
+  },
+  {
+    "title": "뉴스기사 사이트",
+    "image": "scvcoin.png",
+    "git": "private",
+    "viewUrl": "",
+    "work": "실무) 뉴스기사 사이트. 스케줄러 이용한 크롤링",
+    "kind1": "WEB",
+    "kind2": ["react", "nextjs", "nodejs"]
+  },
+  {
+    "title": "대구성서스마트그린산단사업단",
+    "image": "smartGreen.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "work": "외주) 공지사항+로그인+회원가입",
+    "kind1": "WEB",
+    "kind2": ["react"]
+  },
+  {
+    "title": "국책과제 대시보드",
+    "image": "dataService.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "work": "외주) 대시보드 + 게시판 sorting",
+    "kind1": "WEB",
+    "kind2": ["react"]
+  },
+  {
+    "title": "Dashboard",
+    "image": "dashboard.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "work": "외주) 관리자 대시보드 + 차트 붙임",
+    "kind1": "WEB",
+    "kind2": ["react"]
+  },
+  {
+    "title": "VUE DONGSAN",
+    "image": "vuedongsan.jpg",
+    "git": "https://github.com/webcogy/vuedongsan",
+    "viewUrl": "https://webcogy.github.io/vuedongsan/",
+    "work": "클론코딩",
+    "kind1": "WEB",
+    "kind2": ["vue"]
+  },
+  {
+    "title": "MAKE THE BEAUTY",
+    "image": "makethebeauty.jpg",
+    "git": "https://github.com/webcogy/makeTheBeauty",
+    "viewUrl": "",
+    "work": "개인) 화장품쇼핑몰 풀스택 구현",
+    "kind1": "WEB",
+    "kind2": ["react", "graphql", "apollo", "cssModule"]
+  },
+  {
+    "title": "개발 포트폴리오",
+    "image": "",
+    "git": "https://github.com/webcogy/devPortfolio",
+    "viewUrl": "https://webcogy.github.io/devPortfolio/",
+    "work": "개인) 프론트엔드 구현",
+    "kind1": "WEB",
+    "kind2": ["react", "redux", "sass"]
+  },
+  {
+    "title": "실시간 채팅",
+    "image": "chat.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "work": "실무) 톡 기능 프론트엔드 구현",
+    "kind1": "WEB",
+    "kind2": ["react", "contextAPI", "sass", "websocket"]
+  },
+  {
+    "title": "로타리클럽",
+    "image": "rotary.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "work": "실무) 완성된 웹을 앱으로 감싸는 작업만 함",
+    "kind1": "HYBRID",
+    "kind2": ["webview"]
+  },
+  {
+    "title": "e코앤코",
+    "image": "conko.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "work": "실무) 유치원 앱 프론트엔드 구현",
+    "kind1": "APP",
+    "kind2": ["reactNative", "styledComponent"]
+  },
+  {
+    "title": "영화소개",
+    "image": "movie.png",
+    "git": "https://github.com/webcogy/React_MovieApp",
+    "viewUrl": "",
+    "work": "클론코딩",
+    "kind1": "WEB",
+    "kind2": ["react", "api"]
+  },
+  {
+    "title": "세계날씨",
+    "image": "weather.jpg",
+    "git": "https://github.com/webcogy/ReactNative_weatherApp",
+    "viewUrl": "",
+    "work": "클론코딩",
+    "kind1": "APP",
+    "kind2": ["reactNative", "api", "expo"]
+  },
+  {
+    "title": "할일목록",
+    "image": "todolist.jpg",
+    "git": "https://github.com/webcogy/react_todoList",
+    "viewUrl": "https://webcogy.github.io/react_todoList/",
+    "work": "클론코딩",
+    "kind1": "WEB",
+    "kind2": ["react"]
+  },
+  {
+    "title": "동자승 렌터카",
+    "image": "djs.png",
+    "git": "https://github.com/DaeguIT-MinSuKim/yi_java4st_2team_web",
+    "viewUrl": "https://onedev.i234.me/php/portfolio/djs/main/main.php",
+    "work": "자바학원 프로젝트, 총인원5명, 참여도 30% (프론트단 작업)",
+    "kind1": "WEB",
+    "kind2": ["jsp", "oracle", "sql"]
+  }
+]

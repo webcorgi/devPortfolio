@@ -1,0 +1,51 @@
+h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+.f_copyright {
+  display: inline-block;
+  vertical-align: middle;
+  position: fixed;
+  left: 80px;
+  bottom: 85px;
+  padding: 0 50px 0 10px;
+  border-radius: 15px;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  color: #111427;
+  line-height: 30px;
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  z-index: 1;
+
+  & strong {
+    font-weight: 800;
+    margin-left: 10px;
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 30px;
+    height: 1px;
+    background-color: $subColor;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .f_copyright {
+    left: -65px;
+    bottom: 90px;
+    color: $footerColor;
+    background-color: transparent;
+    transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+  }
+  .f_copyright:after {
+    background-color: $footerColor;
+  }
+}
