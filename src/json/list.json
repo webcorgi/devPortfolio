@@ -108,15 +108,6 @@
     "kind2": ["react", "contextAPI", "sass", "websocket"]
   },
   {
-    "title": "로타리클럽",
-    "image": "rotary.jpg",
-    "git": "private",
-    "viewUrl": "",
-    "work": "실무) 완성된 웹을 앱으로 감싸는 작업만 함",
-    "kind1": "HYBRID",
-    "kind2": ["webview"]
-  },
-  {
     "title": "e코앤코",
     "image": "conko.jpg",
     "git": "private",
