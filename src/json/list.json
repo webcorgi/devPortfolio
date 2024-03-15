@@ -74,8 +74,8 @@
   {
     "title": "VUE DONGSAN",
     "image": "vuedongsan.jpg",
-    "git": "https://github.com/webcogy/vuedongsan",
-    "viewUrl": "https://webcogy.github.io/vuedongsan/",
+    "git": "https://github.com/webcorgi/vuedongsan",
+    "viewUrl": "https://webcorgi.github.io/vuedongsan/",
     "work": "클론코딩",
     "kind1": "WEB",
     "kind2": ["vue"]
@@ -83,7 +83,7 @@
   {
     "title": "MAKE THE BEAUTY",
     "image": "makethebeauty.jpg",
-    "git": "https://github.com/webcogy/makeTheBeauty",
+    "git": "https://github.com/webcorgi/makeTheBeauty",
     "viewUrl": "",
     "work": "개인) 화장품쇼핑몰 풀스택 구현",
     "kind1": "WEB",
@@ -92,8 +92,8 @@
   {
     "title": "개발 포트폴리오",
     "image": "",
-    "git": "https://github.com/webcogy/devPortfolio",
-    "viewUrl": "https://webcogy.github.io/devPortfolio/",
+    "git": "https://github.com/webcorgi/devPortfolio",
+    "viewUrl": "https://webcorgi.github.io/devPortfolio/",
     "work": "개인) 프론트엔드 구현",
     "kind1": "WEB",
     "kind2": ["react", "redux", "sass"]
@@ -128,7 +128,7 @@
   {
     "title": "영화소개",
     "image": "movie.png",
-    "git": "https://github.com/webcogy/React_MovieApp",
+    "git": "https://github.com/webcorgi/React_MovieApp",
     "viewUrl": "",
     "work": "클론코딩",
     "kind1": "WEB",
@@ -137,7 +137,7 @@
   {
     "title": "세계날씨",
     "image": "weather.jpg",
-    "git": "https://github.com/webcogy/ReactNative_weatherApp",
+    "git": "https://github.com/webcorgi/ReactNative_weatherApp",
     "viewUrl": "",
     "work": "클론코딩",
     "kind1": "APP",
@@ -146,8 +146,8 @@
   {
     "title": "할일목록",
     "image": "todolist.jpg",
-    "git": "https://github.com/webcogy/react_todoList",
-    "viewUrl": "https://webcogy.github.io/react_todoList/",
+    "git": "https://github.com/webcorgi/react_todoList",
+    "viewUrl": "https://webcorgi.github.io/react_todoList/",
     "work": "클론코딩",
     "kind1": "WEB",
     "kind2": ["react"]
