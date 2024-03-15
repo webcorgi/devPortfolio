@@ -1,5 +1,14 @@
 [
   {
+    "title": "각국가별 카운터기",
+    "image": "globalcount.jpg",
+    "git": "private",
+    "viewUrl": "https://global-next-app.vercel.app/",
+    "work": "개인) 컴퓨터로 사용자가 접속한 국가 체크, 버튼 클릭시 내 국가에 +1점, DB연결해 점수관리",
+    "kind1": "WEB",
+    "kind2": ["typescript, nextjs, mongodb, vercel"]
+  },
+  {
     "title": "[GAME] 고스트워 공식",
     "image": "ghostwar.png",
     "git": "private",

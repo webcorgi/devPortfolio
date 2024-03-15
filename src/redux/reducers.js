@@ -14,7 +14,7 @@ const listReducer = (state = states.listState, action) => {
                 ...state,
                 list_kind2:[],
                 user_chk_kind2:[],
-                list_kind1: action.kind === 'ALL' 
+                list_kind1: action.kind === 'ALL'
                         ? state.list
                         : state.list.filter(list=> list.kind1 === action.kind)
             };
