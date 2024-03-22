@@ -484,59 +484,60 @@ h4 {
 }
 
 
-
+/* 
 .btmnav_mobile {
 	display:none;
 }
+ */
+@import url('https://webfontworld.github.io/gmarket/GmarketSans.css');
+.btmnav_mobile {
+  position:fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+  height:90px;
+  z-index:1000;
+  background:#fff;
+  box-shadow:0 0 10px 10px rgba(0,0,0,0.1);
+  border-radius:20px 20px 0 0;
+  display:block;
+  font-family: 'GmarketSans';
+}
+.btmnav_mobile p {
+  text-align:center;
+  font-size:14px;
+  padding-top:13px;
+  height:40px;
+}
+.btmnav_mobile .link {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.btmnav_mobile a {
+  display:block;
+  width:30%;
+  height:40px;
+  line-height:40px;
+  text-align:center;
+  font-size:14px;
+  margin:0 5px;
+  border-radius:10px;
+  color:#333;
+}
+.btmnav_mobile a.unactive {
+  background:#f5f5f5 !important;
+  color: #aaa;
+}
 
+.btmnav_mobile a.des {
+  background:#fbc2eb;
+}
+.btmnav_mobile a.pub {
+  background:#00f2fe;
+}
+.btmnav_mobile a.dev {
+  background:#f5d100;
+}
 @media screen and (max-width:767px){
-  @import url('https://webfontworld.github.io/gmarket/GmarketSans.css');
-	.btmnav_mobile {
-		position:fixed;
-		bottom:0;
-		left:0;
-		width:100%;
-		height:90px;
-		z-index:1000;
-		background:#fff;
-		box-shadow:0 0 10px 10px rgba(0,0,0,0.1);
-		border-radius:20px 20px 0 0;
-		display:block;
-    font-family: 'GmarketSans';
-	}
-	.btmnav_mobile p {
-		text-align:center;
-		font-size:14px;
-		padding-top:13px;
-		height:40px;
-	}
-	.btmnav_mobile .link {
-		display:flex;
-		justify-content:center;
-		align-items:center;
-	}
-	.btmnav_mobile a {
-		display:block;
-		width:30%;
-		height:40px;
-		line-height:40px;
-		text-align:center;
-		font-size:14px;
-		margin:0 5px;
-		border-radius:10px;
-    color:#333;
-	}
-	.btmnav_mobile a.unactive {
-		background:#f5f5f5 !important;
-	}
-
-	.btmnav_mobile a.des {
-		background:#fbc2eb;
-	}
-	.btmnav_mobile a.pub {
-		background:#00f2fe;
-	}
-	.btmnav_mobile a.dev {
-		background:#f5d100;
-	}
 }
