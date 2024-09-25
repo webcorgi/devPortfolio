@@ -1,4 +1,13 @@
 [
+    {
+    "title": "(주)라온 공식사이트 리뉴얼_24",
+    "image": "rhaone.png",
+    "git": "private",
+    "viewUrl": "https://onedev.i234.me/rhaon/offical24/intro/",
+    "work": "실무) 라온공식사이트 기획+디자인+프론트엔드개발+모델링+메타버스 3D공간구현",
+    "kind1": "WEB",
+    "kind2": ["nextjs, vercel, R3F"]
+  },
   {
     "title": "각국가별 카운터기",
     "image": "globalcount.jpg",
