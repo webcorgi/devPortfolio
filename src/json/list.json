@@ -1,5 +1,14 @@
 [
   {
+    "title": "차량수리예약 앱",
+    "image": "robbin.jpg",
+    "git": "private",
+    "viewUrl": "https://react-robbin.vercel.app/",
+    "work": "차량수리예약 앱 프론트엔드개발",
+    "kind1": "WEB",
+    "kind2": ["react, tailwind, json-server, vercel"]
+  },
+  {
     "title": "각국가별 카운터기",
     "image": "globalcount.jpg",
     "git": "private",
