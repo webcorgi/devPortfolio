@@ -4,9 +4,9 @@
     "image": "react_robbin.jpg",
     "git": "private",
     "viewUrl": "https://react-robbin.vercel.app/",
-    "work": "외주) 챗봇 형태의 예약시스템 프론트엔드 개발",
+    "work": "차량수리예약 앱 프론트엔드개발",
     "kind1": "WEB",
-    "kind2": ["nextjs, recoil, tailwind"]
+    "kind2": ["react, tailwind, json-server"]
   },
   {
     "title": "유니세프 MBTI 테스트앱 (워크샵용)",
