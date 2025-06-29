@@ -1,10 +1,19 @@
 [
   {
+    "title": "미니고객관리시스템",
+    "image": "customer.jpg",
+    "git": "https://github.com/webcorgi/customer-backend",
+    "viewUrl": "https://customer-frontend-one.vercel.app/",
+    "work": "개인) 고객관리시스템 프론트+백엔드 개발",
+    "kind1": "WEB",
+    "kind2": ["nextjs, nestjs, tailwind, supabase, vercel, typescript"]
+  },
+  {
     "title": "차량수리예약 앱",
     "image": "robbin.jpg",
     "git": "private",
     "viewUrl": "https://react-robbin.vercel.app/",
-    "work": "차량수리예약 앱 프론트엔드개발",
+    "work": "외주) 차량수리예약 앱 프론트엔드개발",
     "kind1": "WEB",
     "kind2": ["react, tailwind, json-server, vercel"]
   },
@@ -40,7 +49,7 @@
     "image": "msgbot.png",
     "git": "https://github.com/webcorgi/loa_chatbot",
     "viewUrl": "https://mercury-leather-c8d.notion.site/7d4dcf152897444bbe555842c7495bf9?pvs=4",
-    "work": "채팅방 챗봇 개발 (메신저봇R앱 사용)",
+    "work": "개인) 채팅방 챗봇 개발 (메신저봇R앱 사용)",
     "kind1": "APP",
     "kind2": ["javascript"]
   },
