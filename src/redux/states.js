@@ -3,11 +3,7 @@ const listState = {
     list_kind1: [],  // LIST ALL, WEB, APP, HYBRID
     list_kind2: [],  // LIST ...ETC skill kinds
     kind1: ['ALL', 'WEB', 'APP', 'HYBRID'],
-<<<<<<< HEAD
-    kind2: ['react', 'vue', 'nodejs', 'graphql', 'apollo', 'nextjs', 'reactNative', 'jsp', 'sql', 'naverCloud', 'mysql', 'mongodb', 'typescript', 'R3F', 'nestjs', 'supabase'],
-=======
-    kind2: ['react', 'vue', 'nodejs', 'graphql', 'apollo', 'nextjs', 'reactNative', 'jsp', 'sql', 'naverCloud', 'mysql', 'mongodb', 'typescript', 'R3F', 'tailwind', 'recoil'],
->>>>>>> aa721d17a6b48c4adee8fcd8b35677465e3f6a17
+    kind2: ['react', 'vue', 'nodejs', 'graphql', 'apollo', 'nextjs', 'reactNative', 'jsp', 'sql', 'naverCloud', 'mysql', 'mongodb', 'typescript', 'R3F', 'nestjs', 'supabase', 'tailwind', 'recoil'],
     user_chk_kind2: [],
     inputRef: [],
     listCounting: 5, // 몇개까지 보여줄지 셋팅, more버튼 누를때마다 5개씩 추가
