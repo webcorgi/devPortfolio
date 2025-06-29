@@ -4,36 +4,27 @@
     "image": "customer.jpg",
     "git": "https://github.com/webcorgi/customer-backend",
     "viewUrl": "https://customer-frontend-one.vercel.app/",
-    "work": "개인) 고객관리시스템 프론트+백엔드 개발",
+    "work": "개인) 고객관리시스템 프론트+백엔드 개발 (신기술 CRUD 학습용)",
     "kind1": "WEB",
     "kind2": ["nextjs, nestjs, tailwind, supabase, vercel, typescript"]
   },
   {
-    "title": "차량수리예약 앱",
-    "image": "robbin.jpg",
+    "title": "한국손해보상서비스(주) 차량수리신청 앱",
+    "image": "react_robbin.jpg",
     "git": "private",
     "viewUrl": "https://react-robbin.vercel.app/",
     "work": "외주) 차량수리예약 앱 프론트엔드개발",
     "kind1": "WEB",
-    "kind2": ["react, tailwind, json-server, vercel"]
+    "kind2": ["react, tailwind, json-server"]
   },
   {
-    "title": "각국가별 카운터기",
-    "image": "globalcount.jpg",
+    "title": "유니세프 MBTI 테스트앱 (워크샵용)",
+    "image": "unicef.jpg",
     "git": "private",
-    "viewUrl": "https://global-next-app.vercel.app/",
-    "work": "개인) 컴퓨터로 사용자가 접속한 국가 체크, 버튼 클릭시 내 국가에 +1점, DB연결해 점수관리",
+    "viewUrl": "https://unicef-mbti.vercel.app/",
+    "work": "외주) 디자인+웹퍼블리싱+프론트엔드개발 작업 (개발기능=MBTI 테스트, 결과값 합산 후 result 페이지로 이동)",
     "kind1": "WEB",
-    "kind2": ["typescript, nextjs, mongodb, vercel"]
-  },
-  {
-    "title": "[GAME] 고스트워 공식",
-    "image": "ghostwar.png",
-    "git": "private",
-    "viewUrl": "https://ghostwar.co.kr/",
-    "work": "실무) 기획+디자인+개발+서버 작업 (개발기능=네이버카페 글 정기적으로 크롤링)",
-    "kind1": "WEB",
-    "kind2": ["javascript, nodejs, naverCloud"]
+    "kind2": ["nextjs, recoil"]
   },
   {
     "title": "[GAME] 고스트워 여름 업데이트 사전예약",
