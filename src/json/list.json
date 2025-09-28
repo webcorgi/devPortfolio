@@ -1,5 +1,25 @@
 [
   {
+    "title": "(주)TAOS EV-CARE 대시보드 리뉴얼",
+    "image": "taos_evcare.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "info":"https://www.notion.so/Dashboard-EV-EM-ESS-CARE-24fdaf61e81680379c84d40f22ceb3e3?source=copy_link",
+    "work": "실무) 대시보드 디자인 & 프론트엔드 구현",
+    "kind1": "WEB",
+    "kind2": ["nextjs, typescript, echarts, websocket, sass , recoil, reactQuery"]
+  },
+  {
+    "title": "(주)TAOS 공식홈페이지 리뉴얼",
+    "image": "taos_official.jpg",
+    "git": "private",
+    "viewUrl": "https://taos.kr/",
+    "info":"https://www.notion.so/TAOS-268daf61e81680c29ec2f0cf9afd7dfa?source=copy_link",
+    "work": "실무) 공식홈페이지 디자인 & 프론트엔드 구현",
+    "kind1": "WEB",
+    "kind2": ["nextjs, typescript, sass, recoil"]
+  },
+  {
     "title": "미니고객관리시스템",
     "image": "customer.jpg",
     "git": "https://github.com/webcorgi/customer-backend",

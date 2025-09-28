@@ -44,6 +44,13 @@ function List({ list }) {
                                                 <span><a href={item.viewUrl} className="btn_view" target="_blank">{item.viewUrl}</a></span>
                                             </li>
                                         }
+                                        {
+                                            item.info !== "" &&
+                                            <li>
+                                                <strong><mark>INFO</mark></strong>
+                                                <span><a href={item.info} className="btn_view" target="_blank">{item.info}</a></span>
+                                            </li>
+                                        }
                                     </ul>
                                 </div>
                                 <div className={
