@@ -27,7 +27,7 @@
     "work": "실무) 공식홈페이지 디자인 & 프론트엔드 구현",
     "detail": "i18n 다국어지원(5개국어) / 문의하기폼 구글시트+텔레그램 연동 / hero섹션 초기로딩 속도향상을 위해 레이지로딩 적용 / 2개 섹션 API 호출해 화면에 표현",
     "kind1": "WEB",
-    "kind2": ["nextjs", "typescript", "sass", "recoil"]
+    "kind2": ["react", "nextjs", "typescript", "sass", "recoil"]
   },
   {
     "title": "(주)TAOS 공식홈페이지 리뉴얼 (관리자화면)",
@@ -38,7 +38,7 @@
     "work": "실무) 공식홈페이지 관리자화면 디자인 & 프론트엔드 구현",
     "detail": "CRUD 구현 / 로그인 및 회원가입 구현 / 관리자 페이지 디자인",
     "kind1": "WEB",
-    "kind2": ["nextjs", "typescript", "sass", "recoil"]
+    "kind2": ["react", "nextjs", "typescript", "sass", "recoil"]
   },
   {
     "title": "(주)TAOS 공식홈페이지 리뉴얼 (백엔드API 구현)",
@@ -49,17 +49,17 @@
     "work": "실무) 공식홈페이지 백엔드 API 구현",
     "detail": "",
     "kind1": "WEB",
-    "kind2": ["nestjs", "mongodb", "mongoose"]
+    "kind2": ["react", "nestjs", "mongodb", "mongoose"]
   },
   {
     "title": "얏호우! 캐쥬얼게임 사이트",
     "image": "yathou.jpg",
     "git": "private",
     "viewUrl": "https://yathou.com/",
-    "work": "개인) 캐쥬얼게임 사이트 풀스택 개발 (DB=firebase)",
+    "work": "개인) 캐쥬얼게임 사이트 풀스택 개발",
     "detail": "i18n 다국어지원 / 각 게임 신기록 달성시 랭킹 DB 등록",
     "kind1": "WEB",
-    "kind2": ["nextjs", "typescript", "firebase", "tailwind", "vercel"]
+    "kind2": ["react", "nextjs", "typescript", "firebase", "tailwind", "vercel"]
   },
   {
     "title": "미니고객관리시스템",
@@ -69,6 +69,7 @@
     "work": "개인) 고객관리시스템 프론트+백엔드 개발 (supabase CRUD 학습용)",
     "kind1": "WEB",
     "kind2": [
+      "react",
       "nextjs",
       "nestjs",
       "tailwind",
@@ -94,7 +95,7 @@
     "work": "외주) 디자인+웹퍼블리싱+프론트엔드개발 작업 (MBTI 테스트)",
     "detail": "결과값 합산 후 result 페이지로 이동",
     "kind1": "WEB",
-    "kind2": ["nextjs", "recoil"]
+    "kind2": ["react", "nextjs", "recoil"]
   },
   {
     "title": "[GAME] 고스트워 공식사이트",

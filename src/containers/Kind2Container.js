@@ -44,24 +44,30 @@ function Kind2Container() {
      * @name kind2Calculator 
      * @param {유저가 화면상에 체크한 스킬} userchk_skill 
      * @description 화면상에 띄울 리스트인 list_kind2 를 계산
-     *              1) 유저가 체크한 스킬에 모두 포함되는지, 각 리스트 모두 체크
-     *              2) 중복값 모두 제거
+     *              1) 유저가 체크한 스킬이 없으면 모든 리스트 반환 (kind1 all과 동일)
+     *              2) 유저가 체크한 스킬에 모두 포함되는지, 각 리스트 모두 체크
+     *              3) 중복값 모두 제거
      */
     const kind2Calculator = (userchk_skill) => {
         try{
             let listResult = [];
 
-            for(let k=0; k<list_kind1.length; k++){
-                let chk = false; // chk => 2) 중복값 모두 제거 
-                for(let i=0; i<userchk_skill.length; i++){
-                    if(list_kind1[k].kind2.indexOf(userchk_skill[i]) !== -1){
-                        chk = true;
-                    }else{
-                        chk = false;
-                        break;
+            // 선택된 스킬이 없으면 모든 리스트 반환
+            if(userchk_skill.length === 0) {
+                listResult = list_kind1;
+            } else {
+                for(let k=0; k<list_kind1.length; k++){
+                    let chk = false; // chk => 3) 중복값 모두 제거 
+                    for(let i=0; i<userchk_skill.length; i++){
+                        if(list_kind1[k].kind2.indexOf(userchk_skill[i]) !== -1){
+                            chk = true;
+                        }else{
+                            chk = false;
+                            break;
+                        }
                     }
+                    if( chk === true ) listResult.push(list_kind1[k]) // 중복 아니면 push
                 }
-                if( chk === true ) listResult.push(list_kind1[k]) // 중복 아니면 push
             }
             
             onUserChkKind2(userchk_skill);
