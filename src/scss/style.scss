@@ -4,9 +4,14 @@
 @import "./layout.scss";
 @import "./darkmode.scss";
 
+a{
+  color:blue !important;
+  text-decoration:underline !important;
+}
+
 .App {
   position: relative;
-  padding: 50px 50px 200px;
+  padding: 50px 20px 200px;
   min-height: 100vh;
 }
 
@@ -14,7 +19,7 @@
   @include boxShadow();
 
   background: #fff;
-  padding: 6% 12%;
+  padding: 5%;
   max-width: 1280px;
   margin: 0 auto;
 }
@@ -204,8 +209,9 @@ h3 {
         width: 100%;
         font-size: 14px;
         font-weight: 400;
-        color: #a8a9b5;
+        color: #59595f;
         line-height: 25px;
+        padding-right:20px;
       }
 
       & strong {
@@ -335,7 +341,8 @@ h3 {
 } // contents
 
 .btn_view {
-  color: #ffbb18 !important;
+  color: blue !important;
+  text-decoration:underline !important;
 }
 r #contents .c_portfolio .cp_view .box {
   margin-top: 80px;

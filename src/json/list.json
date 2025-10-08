@@ -4,29 +4,78 @@
     "image": "taos_evcare.jpg",
     "git": "private",
     "viewUrl": "",
-    "info":"https://www.notion.so/Dashboard-EV-EM-ESS-CARE-24fdaf61e81680379c84d40f22ceb3e3?source=copy_link",
+    "info": "https://www.notion.so/Dashboard-EV-EM-ESS-CARE-24fdaf61e81680379c84d40f22ceb3e3?source=copy_link",
     "work": "실무) 대시보드 디자인 & 프론트엔드 구현",
+    "detail": "i18n 다국어지원 / 통계차트 구현 / 백엔드 전기차량 데이터 API로 받아와 표현 / nextjs 미들웨어에서 보안처리 / webVitals, bundle analyzer로 성능 측정후 최적화",
     "kind1": "WEB",
-    "kind2": ["nextjs, typescript, echarts, websocket, sass , recoil, reactQuery"]
+    "kind2": [
+      "nextjs",
+      "typescript",
+      "echarts",
+      "websocket",
+      "sass",
+      "recoil",
+      "reactQuery"
+    ]
   },
   {
-    "title": "(주)TAOS 공식홈페이지 리뉴얼",
+    "title": "(주)TAOS 공식홈페이지 리뉴얼 (사용자화면)",
     "image": "taos_official.jpg",
     "git": "private",
     "viewUrl": "https://taos.kr/",
-    "info":"https://www.notion.so/TAOS-268daf61e81680c29ec2f0cf9afd7dfa?source=copy_link",
+    "info": "https://www.notion.so/TAOS-268daf61e81680c29ec2f0cf9afd7dfa?source=copy_link",
     "work": "실무) 공식홈페이지 디자인 & 프론트엔드 구현",
+    "detail": "i18n 다국어지원(5개국어) / 문의하기폼 구글시트+텔레그램 연동 / hero섹션 초기로딩 속도향상을 위해 레이지로딩 적용 / 2개 섹션 API 호출해 화면에 표현",
     "kind1": "WEB",
-    "kind2": ["nextjs, typescript, sass, recoil"]
+    "kind2": ["nextjs", "typescript", "sass", "recoil"]
+  },
+  {
+    "title": "(주)TAOS 공식홈페이지 리뉴얼 (관리자화면)",
+    "image": "taos_official.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "info": "https://www.notion.so/10-nextjs-277daf61e81680e79448cb3d2a7a6058?source=copy_link",
+    "work": "실무) 공식홈페이지 관리자화면 디자인 & 프론트엔드 구현",
+    "detail": "CRUD 구현 / 로그인 및 회원가입 구현 / 관리자 페이지 디자인",
+    "kind1": "WEB",
+    "kind2": ["nextjs", "typescript", "sass", "recoil"]
+  },
+  {
+    "title": "(주)TAOS 공식홈페이지 리뉴얼 (백엔드API 구현)",
+    "image": "taos_official.jpg",
+    "git": "private",
+    "viewUrl": "",
+    "info": "https://www.notion.so/9-API-nestjs-mongoDB-mongoose-276daf61e816808e915ffdbf91cb072b?source=copy_link",
+    "work": "실무) 공식홈페이지 백엔드 API 구현",
+    "detail": "",
+    "kind1": "WEB",
+    "kind2": ["nestjs", "mongodb", "mongoose"]
+  },
+  {
+    "title": "얏호우! 캐쥬얼게임 사이트",
+    "image": "yathou.jpg",
+    "git": "private",
+    "viewUrl": "https://yathou.com/",
+    "work": "개인) 캐쥬얼게임 사이트 풀스택 개발 (DB=firebase)",
+    "detail": "i18n 다국어지원 / 각 게임 신기록 달성시 랭킹 DB 등록",
+    "kind1": "WEB",
+    "kind2": ["nextjs", "typescript", "firebase", "tailwind", "vercel"]
   },
   {
     "title": "미니고객관리시스템",
     "image": "customer.jpg",
     "git": "https://github.com/webcorgi/customer-backend",
     "viewUrl": "https://customer-frontend-one.vercel.app/",
-    "work": "개인) 고객관리시스템 프론트+백엔드 개발 (신기술 CRUD 학습용)",
+    "work": "개인) 고객관리시스템 프론트+백엔드 개발 (supabase CRUD 학습용)",
     "kind1": "WEB",
-    "kind2": ["nextjs, nestjs, tailwind, supabase, vercel, typescript"]
+    "kind2": [
+      "nextjs",
+      "nestjs",
+      "tailwind",
+      "supabase",
+      "vercel",
+      "typescript"
+    ]
   },
   {
     "title": "한국손해보상서비스(주) 차량수리신청 앱",
@@ -35,25 +84,37 @@
     "viewUrl": "https://react-robbin.vercel.app/",
     "work": "외주) 차량수리예약 앱 프론트엔드개발",
     "kind1": "WEB",
-    "kind2": ["react, tailwind, json-server"]
+    "kind2": ["react", "tailwind", "json-server"]
   },
   {
     "title": "유니세프 MBTI 테스트앱 (워크샵용)",
     "image": "unicef.jpg",
     "git": "private",
     "viewUrl": "https://unicef-mbti.vercel.app/",
-    "work": "외주) 디자인+웹퍼블리싱+프론트엔드개발 작업 (개발기능=MBTI 테스트, 결과값 합산 후 result 페이지로 이동)",
+    "work": "외주) 디자인+웹퍼블리싱+프론트엔드개발 작업 (MBTI 테스트)",
+    "detail": "결과값 합산 후 result 페이지로 이동",
     "kind1": "WEB",
-    "kind2": ["nextjs, recoil"]
+    "kind2": ["nextjs", "recoil"]
+  },
+  {
+    "title": "[GAME] 고스트워 공식사이트",
+    "image": "ghostwar.png",
+    "git": "private",
+    "viewUrl": "https://ghostwar.co.kr/",
+    "work": "실무) 기획+디자인+개발+서버 작업",
+    "detail": "네이버카페 글 자동 크롤링 후 화면에 노출",
+    "kind1": "WEB",
+    "kind2": ["javascript", "nodejs"]
   },
   {
     "title": "[GAME] 고스트워 여름 업데이트 사전예약",
     "image": "ghostwar.png",
     "git": "private",
     "viewUrl": "",
-    "work": "실무) 기획+디자인+개발+서버 작업 (개발기능=유저 사전예약정보 받기. 백엔드,DB,서버 배포)",
+    "work": "실무) 기획+디자인+개발+서버 작업",
+    "detail": "유저 사전예약정보 받기 / Mysql DB 생성 및 연동 / 네이버클라우드 우분투서버에 배포",
     "kind1": "WEB",
-    "kind2": ["javascript, nodejs, mysql, naverCloud"]
+    "kind2": ["javascript", "nodejs", "mysql", "naverCloud"]
   },
   {
     "title": "카톡 메신저봇",
@@ -69,7 +130,8 @@
     "image": "scvcoin.png",
     "git": "private",
     "viewUrl": "",
-    "work": "실무) 뉴스기사 사이트. 스케줄러 이용한 크롤링",
+    "work": "실무) 뉴스기사 사이트",
+    "detail": "스케줄러 이용한 크롤링",
     "kind1": "WEB",
     "kind2": ["react", "nextjs", "nodejs"]
   },
@@ -78,7 +140,7 @@
     "image": "smartGreen.jpg",
     "git": "private",
     "viewUrl": "",
-    "work": "외주) 공지사항+로그인+회원가입",
+    "work": "외주) 공지사항+로그인+회원가입 (UI 작업)",
     "kind1": "WEB",
     "kind2": ["react"]
   },
@@ -87,7 +149,7 @@
     "image": "dataService.jpg",
     "git": "private",
     "viewUrl": "",
-    "work": "외주) 대시보드 + 게시판 sorting",
+    "work": "외주) 대시보드 + 게시판 sorting (UI 작업)",
     "kind1": "WEB",
     "kind2": ["react"]
   },
@@ -96,7 +158,7 @@
     "image": "dashboard.jpg",
     "git": "private",
     "viewUrl": "",
-    "work": "외주) 관리자 대시보드 + 차트 붙임",
+    "work": "외주) 관리자 대시보드 + 차트 붙임 (UI 작업)",
     "kind1": "WEB",
     "kind2": ["react"]
   },
@@ -105,7 +167,7 @@
     "image": "vuedongsan.jpg",
     "git": "https://github.com/webcorgi/vuedongsan",
     "viewUrl": "https://webcorgi.github.io/vuedongsan/",
-    "work": "클론코딩",
+    "work": "클론코딩 (UI 작업)",
     "kind1": "WEB",
     "kind2": ["vue"]
   },
@@ -133,6 +195,7 @@
     "git": "private",
     "viewUrl": "",
     "work": "실무) 톡 기능 프론트엔드 구현",
+    "detail": "사내 신규 서비스의 채팅기능을 위해 카톡과 같은 채팅방 기능 구현 (웹소켓 사용)",
     "kind1": "WEB",
     "kind2": ["react", "contextAPI", "sass", "websocket"]
   },
@@ -142,6 +205,7 @@
     "git": "private",
     "viewUrl": "",
     "work": "실무) 유치원 앱 프론트엔드 구현",
+    "detail": "API 호출해 유치원 정보 표현",
     "kind1": "APP",
     "kind2": ["reactNative", "styledComponent"]
   },
@@ -151,6 +215,7 @@
     "git": "https://github.com/webcorgi/React_MovieApp",
     "viewUrl": "",
     "work": "클론코딩",
+    "detail": "API 호출해 영화 정보 표현",
     "kind1": "WEB",
     "kind2": ["react", "api"]
   },
@@ -160,6 +225,7 @@
     "git": "https://github.com/webcorgi/ReactNative_weatherApp",
     "viewUrl": "",
     "work": "클론코딩",
+    "detail": "API 호출해 세계날씨 정보 표현",
     "kind1": "APP",
     "kind2": ["reactNative", "api", "expo"]
   },
@@ -177,8 +243,9 @@
     "image": "djs.png",
     "git": "https://github.com/DaeguIT-MinSuKim/yi_java4st_2team_web",
     "viewUrl": "https://onedev.i234.me/php/portfolio/djs/main/main.php",
-    "work": "자바학원 프로젝트, 총인원5명, 참여도 30% (프론트단 작업)",
+    "work": "자바학원 팀 프로젝트",
+    "detail": "프로젝트 총인원 5명, 참여도 30% (프론트단 html,css,javascript 작업)",
     "kind1": "WEB",
-    "kind2": ["jsp", "oracle", "sql"]
+    "kind2": ["jsp", "oracle", "sql", "javascript"]
   }
 ]

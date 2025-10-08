@@ -1,6 +1,6 @@
 # developer portfolio
 
-포폴 링크 : https://webcogy.github.io/devPortfolio/
+포폴 링크 : https://webcorgi.github.io/devPortfolio/
 
 ---
 

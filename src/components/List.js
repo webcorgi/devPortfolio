@@ -29,6 +29,13 @@ function List({ list }) {
                                             <strong><mark>WORK</mark></strong>
                                             <span>{item.work}</span>
                                         </li>
+                                        {
+                                            item.detail &&
+                                            <li>
+                                                <strong><mark>DETAIL</mark></strong>
+                                                <span>{item.detail}</span>
+                                            </li>
+                                        }
                                         <li>
                                             <strong><mark>GIT</mark></strong>
                                             {
@@ -38,14 +45,14 @@ function List({ list }) {
                                             }
                                         </li>
                                         {
-                                            item.viewUrl !== "" &&
+                                            item.viewUrl &&
                                             <li>
                                                 <strong><mark>VIEW</mark></strong>
                                                 <span><a href={item.viewUrl} className="btn_view" target="_blank">{item.viewUrl}</a></span>
                                             </li>
                                         }
                                         {
-                                            item.info !== "" &&
+                                            item.info &&
                                             <li>
                                                 <strong><mark>INFO</mark></strong>
                                                 <span><a href={item.info} className="btn_view" target="_blank">{item.info}</a></span>
